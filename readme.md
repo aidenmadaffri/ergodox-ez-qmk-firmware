@@ -1,6 +1,6 @@
 # Ergodox EZ QMK Firmware
 
-I use an Ergodox EZ (split ortholinear mechanical keyboard. This repository hosts the firmware and layout (Colemak Mod-DH) that I used daily. Notable features include layers for arrow keys, media controls, gaming (QWERTY), and Anki (flashcard application). The keyboard itself uses Zilent 62g switches and Drop /dev/tty keycaps.
+I use an Ergodox EZ (split ortholinear mechanical keyboard). This repository hosts the firmware and layout (Colemak Mod-DH) that I used daily. Notable features include layers for arrow keys, media controls, gaming (QWERTY), and Anki (flashcard application). The keyboard itself uses Zilent 62g switches and Drop /dev/tty keycaps.
 
 The original readme can be found below.
 
